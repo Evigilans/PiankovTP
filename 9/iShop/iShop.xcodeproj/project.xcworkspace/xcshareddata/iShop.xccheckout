@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>26AB305D-3C1E-4C69-8E36-247B66CEF033</string>
+=======
+	<string>E6C62E4D-9E3F-4D5B-A579-0BC8F7994366</string>
+>>>>>>> POPOV_BRENCH
+	<key>IDESourceControlProjectName</key>
+	<string>iShop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A9B13C7FF2AC21732FF345FE8C4C95D01356614</key>
+		<string>https://github.com/Evigilans/iShop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iShop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A9B13C7FF2AC21732FF345FE8C4C95D01356614</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Evigilans/iShop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A9B13C7FF2AC21732FF345FE8C4C95D01356614</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A9B13C7FF2AC21732FF345FE8C4C95D01356614</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iShop</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Apple iMac - 1799$</string>
+		<key>description</key>
+		<string>Всего за 1799$ попробуйте новый iMac и ваше рабочее место заметно преобразится!</string>
+		<key>image</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Apple Mac Book Pro - 999$</string>
+		<key>description</key>
+		<string>Всего за 999$ попробуйте новый Mac Book Pro и работайте в одно удовольствие!</string>
+		<key>image</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Apple iPod 6 - 399$</string>
+		<key>description</key>
+		<string>Всего да 399$ попробуйте новый iPod и наслаждайтесь вашей музыкой в любом месте!</string>
+		<key>image</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Apple iPhone 7 - 799$</string>
+		<key>description</key>
+		<string>Всего за 799$ попробуйте новый iPhone 7!</string>
+		<key>image</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
